@@ -1,13 +1,13 @@
 # Pizza-Sales-Analysis
 
-## Project Overview
+### Project Overview
 This project analyses pizza sales data to understand business performance, customer preferences, and sales trends.
 
-## Tools Used
+### Tools Used
 Micrososft Excel
 Power BI
 
-## Project Objectives
+### Project Objectives
 Analyse total revenue and sales
 Identify best-selling pizzas
 Evaluate sales performance

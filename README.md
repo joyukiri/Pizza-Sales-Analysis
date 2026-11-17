@@ -1,4 +1,4 @@
-## Pizza-Sales-Analysis
+# Pizza-Sales-Analysis
 
 ## Project Overview
 This project analyses pizza sales data to understand business performance, customer preferences, and sales trends.
@@ -24,6 +24,6 @@ Data Visualisation
 Business Intelligence
 
 ## Conclusion
-This project provides valuable insights into pizza sales performance and supports data driven business decisoions
+This project provides valuable insights into pizza sales performance and supports data driven business decisions
 
 
